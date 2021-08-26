@@ -5,4 +5,4 @@ pkg install figlet
 rm honey.py honey1.py honey*.py
 wget -q "https://raw.githubusercontent.com/EthicalHacker121/honey1day/main/honey.py"
 clear
-python hackrxce1.py
+python honey.py
