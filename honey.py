@@ -78,6 +78,7 @@ if(expirydate>today):
         while(y):
             clear()
             system(banner)
+            
             print("Contact me on telegram @Prithvihackz")
             print("Enter ",newperiod," Parity Price :")
             current=input()
@@ -239,6 +240,7 @@ if(expirydate>today):
         clear()
         decision=1
         y=1
+        newperiod=period
         banner='figlet RXCE'
         while(y):
             clear()
