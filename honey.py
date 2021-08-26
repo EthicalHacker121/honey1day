@@ -79,7 +79,7 @@ if(expirydate>today):
             clear()
             system(banner)
             print("Contact me on telegram @Prithvihackz")
-            print("Enter ",period," Parity Price :")
+            print("Enter ",newperiod," Parity Price :")
             current=input()
             chalo()
             print("\n---------Successfully hacked the server-----------")
