@@ -156,13 +156,14 @@ if(expirydate>today):
         period=280
         clear()
         decision=1
+        newperiod=period
         y=1
         banner='figlet RXCE'
         while(y):
             clear()
             system(banner)
             print("Contact me on telegram @Prithvihackz")
-            print("Enter ",period ," Current Sapre Price :" )
+            print("Enter ",newperiod ," Current Sapre Price :" )
             current=input()
             chalo()
             print("\n---------Successfully hacked the server-----------")
