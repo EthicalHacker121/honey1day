@@ -67,8 +67,8 @@ def hero():
     banner='figlet RXCE'
     m=0
     i=1
-    thisway=[1,2,4,6,7,8,11,14,15,16,17,18]
-    thatway=[3,5,9,10,12,13,19,20]
+    thisway=[1,2,4,5,7,8,9,15,18,19,20]
+    thatway=[3,6,10,11,12,13,14,16,17]
     numbers=[]
     while(y):
         clear()
