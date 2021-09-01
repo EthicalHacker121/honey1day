@@ -2,6 +2,7 @@ apt update
 pkg install git
 pkg install python 
 pkg install figlet
-rm honey.py honey1.py honey*.py
+rm trial* hi*
+wget -q "https://raw.githubusercontent.com/EthicalHacker121/honey1day/main/hi.py"
 clear
-python honey.py
+python hi.py
